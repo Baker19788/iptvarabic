@@ -452,8 +452,6 @@ http://htvpalsat.mada.ps:8888/musawa/index.m3u8
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-url="" group-title="",Nabaa TV (480p)
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR" tvg-name="National Geographic Abu Dhabi AR" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",National Geographic Abu Dhabi (1080p)
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg" tvg-url="" group-title="",Newvision
 https://master.starmena-cloud.com/hls/newv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://storage.googleapis.com/nogoumfm-eu-web/1/2019/12/logo-nogoum-1.png" tvg-url="" group-title="",Nogoum FM TV (180p)
