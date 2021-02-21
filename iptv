@@ -115,6 +115,8 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya TV ARB" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Iraqiya News (720p)
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-country="UK;ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-url="" group-title="News",BBC Arabic (720p)
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Forat" tvg-language="Arabic" tvg-logo="https://alforatnews.com/asset/theme-alforat/image/footer-logo.png?1607796001" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Forat (720p)
 https://5e085b8c1882e.streamlock.net/live/_definst_/alforat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/H7D7dmK.png" tvg-url="" group-title="",Al Istiqama TV (576p)
@@ -278,8 +280,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist
 http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Bahrain TV ARB" tvg-name="Al Bahrain TV ARB" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" tvg-url="" group-title="",Bahrain TV (720p)
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-country="UK;ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-url="" group-title="News",BBC Arabic (720p)
-https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7aD1yan.jpg" tvg-url="" group-title="",Beity
 http://82.212.74.2:8000/live/7312.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" tvg-url="" group-title="",Canadian Arab TV
